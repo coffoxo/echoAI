@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/coffoxo/echoAI/blob/main/Screenshot.jpg)
+
 # EchoAI - 通用 AI 写作助手 for Typecho
  
 一款现代化、安全、高度可扩展的 Typecho AI 写作助手插件。
