@@ -1,4 +1,3 @@
-![Screenshot](https://github.com/coffoxo/echoAI/blob/main/Screenshot.jpg)
 
 # EchoAI - 通用 AI 写作助手 for Typecho
  
@@ -13,6 +12,7 @@
 *   ⚡️ **一键生成，自动追加**：告别繁琐的手动复制粘贴！生成的内容可一键追加到文章末尾，真正实现AI辅助写作的流畅体验。
 *   🎨 **精致UI，细节打磨**：界面支持折叠/展开，与 Typecho 后台风格一致的悬浮效果。
  
+![Screenshot](https://github.com/coffoxo/echoAI/blob/main/Screenshot.jpg)
 
 ## 安装与配置
  
